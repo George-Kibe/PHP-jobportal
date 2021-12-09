@@ -1,0 +1,10 @@
+/*CSS tricks in web development*/
+body{
+	background: linear-gradient(#faf8f7, #a39c9b) fixed; /*applying a linear gradient background 
+	background: -webkit-linear-gradient(red, blue);
+	background: -o-linear-gradient(red, blue); for operamini
+	background: -moz-linear-gradient(red, blue); for mozilla*/
+	
+}
+
+
